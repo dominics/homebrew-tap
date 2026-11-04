@@ -1,6 +1,6 @@
 cask "ozzy-cms600" do
-  version "0.4.1"
-  sha256 "45e5db4e69b89b6da0a1267e740c0f646f5766c53759b28bd9458375e0b370b4"
+  version "0.4.2"
+  sha256 "fc0619697982caf40330b4720fbb6ae4253ca7ae011e789526d92766d090c052"
 
   url "https://github.com/dominics/Ozzy/releases/download/v#{version}/Ozzy-CMS600-#{version}.pkg"
   name "Ozzy for Dynacord CMS 600-3"
